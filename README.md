@@ -19,6 +19,8 @@ Patch 4.3.4 - NDP-DB 4.3.4 (Alpha)
 
 Esta é a nova source da DeathCore estamos atualizando devagar, adicionando novos scripts e novidades, se você quiser nos ajudar neste projeto toda a ajuda será bem vinda! Atenciosamente, Equipe Noffearr Death ProjecT™.
 
+Links para fazer download:
+
 
 [dbc](https://mega.co.nz/#!ng0FxBJJ!Q62CZedaznny9bJBGZdp8bGr1Wcjf3xuDQguJRyOtdg)
 
